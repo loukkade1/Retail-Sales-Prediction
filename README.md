@@ -18,7 +18,7 @@ This project develops a predictive analytics pipeline to understand and forecast
 The dataset contains store-level characteristics, including:
 
 | Var. | Variable name | Description | Variable type | Code description |
-|------|----------------|--------------|----------------|------------------|
+|---|----------------|--------------|----------------|------------------|
 | 1 | **Sales** | Unit sales (in thousands) at each location | Numerical | — |
 | 2 | **CompPrice** | Price charged by competitor at each location | Numerical | — |
 | 3 | **Income** | Community income level (in thousands of dollars) | Numerical | — |
@@ -30,6 +30,7 @@ The dataset contains store-level characteristics, including:
 | 9 | **Education** | Education level at each location | Numerical | — |
 | 10 | **Urban** | Indicates whether the store is in an urban or rural location | Binary | 1: Yes, 0: No |
 | 11 | **US** | Indicates whether the store is in the US or not | Binary | 1: Yes, 0: No |
+
 Categorical variables are encoded using one-hot encoding.
 
 ## Methodology
