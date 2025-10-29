@@ -1,8 +1,4 @@
-# Retail-Sales-Prediction
-Developed a predictive analytics pipeline to identify key drivers of product sales and evaluate model performance across Random Forest and Gradient Boosting algorithms. Includes insight extraction and error analysis by sales segments
-
 # Retail Sales Prediction – Machine Learning Project
-
 This project develops a predictive analytics pipeline to understand and forecast unit sales of retail stores based on pricing, demographic, and merchandising factors. The goal is to identify key drivers of sales performance and compare machine learning models in terms of accuracy and interpretability.
 
 ## Objectives
